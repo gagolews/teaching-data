@@ -33,6 +33,20 @@ Each of the 12 CSV files consists of the following columns
 The data sets require a bit of data cleansing.
 
 
+* [January.csv](January.csv)
+* [February.csv](February.csv)
+* [March.csv](March.csv)
+* [April.csv](April.csv)
+* [May.csv](May.csv)
+* [June.csv](June.csv)
+* [July.csv](July.csv)
+* [August.csv](August.csv)
+* [September.csv](September.csv)
+* [October.csv](October.csv)
+* [November.csv](November.csv)
+* [December.csv](December.csv)
+
+
 Example clustering based on average low and high temperatures in
 January and July:
 
