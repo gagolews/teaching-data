@@ -1,0 +1,98 @@
+# ToothGrowth              package:datasets              R Documentation
+#
+# The Effect of Vitamin C on Tooth Growth in Guinea Pigs
+#
+# Description:
+#
+#      The response is the length of odontoblasts (cells responsible for
+#      tooth growth) in 60 guinea pigs.  Each animal received one of
+#      three dose levels of vitamin C (0.5, 1, and 2 mg/day) by one of
+#      two delivery methods, (orange juice or ascorbic acid (a form of
+#      vitamin C and coded as ‘VC’).
+#
+# Usage:
+#
+#      ToothGrowth
+#
+# Format:
+#
+#      A data frame with 60 observations on 3 variables.
+#
+#        [,1]  len   numeric  Tooth length
+#        [,2]  supp  factor   Supplement type (VC or OJ).
+#        [,3]  dose  numeric  Dose in milligrams/day
+#
+# Source:
+#
+#      C. I. Bliss (1952) _The Statistics of Bioassay_.  Academic Press.
+#
+# References:
+#
+#      McNeil, D. R. (1977) _Interactive Data Analysis_.  New York:
+#      Wiley.
+#
+#      Crampton, E. W. (1947) The growth of the odontoblast of the
+#      incisor teeth as a criterion of vitamin C intake of the guinea
+#      pig. _The Journal of Nutrition_ *33(5)*: 491-504.  <URL:
+#      http://jn.nutrition.org/content/33/5/491.full.pdf>
+"len","supp","dose"
+4.2,"VC",0.5
+11.5,"VC",0.5
+7.3,"VC",0.5
+5.8,"VC",0.5
+6.4,"VC",0.5
+10,"VC",0.5
+11.2,"VC",0.5
+11.2,"VC",0.5
+5.2,"VC",0.5
+7,"VC",0.5
+16.5,"VC",1
+16.5,"VC",1
+15.2,"VC",1
+17.3,"VC",1
+22.5,"VC",1
+17.3,"VC",1
+13.6,"VC",1
+14.5,"VC",1
+18.8,"VC",1
+15.5,"VC",1
+23.6,"VC",2
+18.5,"VC",2
+33.9,"VC",2
+25.5,"VC",2
+26.4,"VC",2
+32.5,"VC",2
+26.7,"VC",2
+21.5,"VC",2
+23.3,"VC",2
+29.5,"VC",2
+15.2,"OJ",0.5
+21.5,"OJ",0.5
+17.6,"OJ",0.5
+9.7,"OJ",0.5
+14.5,"OJ",0.5
+10,"OJ",0.5
+8.2,"OJ",0.5
+9.4,"OJ",0.5
+16.5,"OJ",0.5
+9.7,"OJ",0.5
+19.7,"OJ",1
+23.3,"OJ",1
+23.6,"OJ",1
+26.4,"OJ",1
+20,"OJ",1
+25.2,"OJ",1
+25.8,"OJ",1
+21.2,"OJ",1
+14.5,"OJ",1
+27.3,"OJ",1
+25.5,"OJ",2
+26.4,"OJ",2
+22.4,"OJ",2
+24.5,"OJ",2
+24.8,"OJ",2
+30.9,"OJ",2
+26.4,"OJ",2
+27.3,"OJ",2
+29.4,"OJ",2
+23,"OJ",2
