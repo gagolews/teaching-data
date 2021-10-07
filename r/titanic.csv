@@ -1,0 +1,80 @@
+# Survival of passengers on the Titanic
+#
+# Based on the (unstacked) R dataset `Titanic`:
+#
+# T <- data.frame(
+#    Class=rep(dimnames(Titanic)$Class,       each=1,  times=8),
+#    Sex=rep(dimnames(Titanic)$Sex,           each=4,  times=2),
+#    Age=rep(dimnames(Titanic)$Age,           each=8,  times=2),
+#    Survived=rep(dimnames(Titanic)$Survived, each=16, times=1),
+#    Count=as.integer(Titanic),
+#    stringsAsFactors=FALSE
+# )
+# T <- T[T$Count > 0,]
+#
+#
+# Description:
+#
+#      This data set provides information on the fate of passengers on
+#      the fatal maiden voyage of the ocean liner ‘Titanic’, summarized
+#      according to economic status (class), sex, age and survival.
+#
+# Details:
+#
+#      The sinking of the Titanic is a famous event, and new books are
+#      still being published about it.  Many well-known facts-from the
+#      proportions of first-class passengers to the ‘women and children
+#      first’ policy, and the fact that that policy was not entirely
+#      successful in saving the women and children in the third class-are
+#      reflected in the survival rates for various classes of passenger.
+#
+#      These data were originally collected by the British Board of Trade
+#      in their investigation of the sinking.  Note that there is not
+#      complete agreement among primary sources as to the exact numbers
+#      on board, rescued, or lost.
+#
+#      Due in particular to the very successful film ‘Titanic’, the last
+#      years saw a rise in public interest in the Titanic.  Very detailed
+#      data about the passengers is now available on the Internet, at
+#      sites such as _Encyclopedia Titanica_ (<URL:
+#      http://www.rmplc.co.uk/eduweb/sites/phind>).
+#
+# Source:
+#
+#      Dawson, Robert J. MacG. (1995), The ‘Unusual Episode’ Data
+#      Revisited.  _Journal of Statistics Education_, *3*.  <URL:
+#      https://www.amstat.org/publications/jse/v3n3/datasets.dawson.html>
+#
+#      The source provides a data set recording class, sex, age, and
+#      survival status for each person on board of the Titanic, and is
+#      based on data originally collected by the British Board of Trade
+#      and reprinted in:
+#
+#      British Board of Trade (1990), _Report on the Loss of the
+#      ‘Titanic’ (S.S.)_.  British Board of Trade Inquiry Report
+#      (reprint).  Gloucester, UK: Allan Sutton Publishing.
+"Class","Sex","Age","Survived","Count"
+"3rd","Male","Child","No",35
+"3rd","Female","Child","No",17
+"1st","Male","Adult","No",118
+"2nd","Male","Adult","No",154
+"3rd","Male","Adult","No",387
+"Crew","Male","Adult","No",670
+"1st","Female","Adult","No",4
+"2nd","Female","Adult","No",13
+"3rd","Female","Adult","No",89
+"Crew","Female","Adult","No",3
+"1st","Male","Child","Yes",5
+"2nd","Male","Child","Yes",11
+"3rd","Male","Child","Yes",13
+"1st","Female","Child","Yes",1
+"2nd","Female","Child","Yes",13
+"3rd","Female","Child","Yes",14
+"1st","Male","Adult","Yes",57
+"2nd","Male","Adult","Yes",14
+"3rd","Male","Adult","Yes",75
+"Crew","Male","Adult","Yes",192
+"1st","Female","Adult","Yes",140
+"2nd","Female","Adult","Yes",80
+"3rd","Female","Adult","Yes",76
+"Crew","Female","Adult","Yes",20
