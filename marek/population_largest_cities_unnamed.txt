@@ -1,0 +1,82 @@
+# source: https://en.wikipedia.org/wiki/List_of_largest_cities
+37400068;Tōkyō
+28514000;Delhi
+25582000;Shanghai
+21650000;São Paulo
+21581000;Mexico City
+20076000;Cairo
+19980000;Mumbai
+19618000;Beijing
+19578000;Dhaka
+19281000;Osaka
+18819000;New York
+15400000;Karachi
+14967000;Buenos Aires
+14838000;Chongqing
+14751000;Istanbul
+14681000;Kolkata
+13482000;Manila
+13463000;Lagos
+13293000;Rio de Janeiro
+13215000;Tianjin
+13171000;Kinshasa
+12638000;Guangzhou
+12458000;Los Angeles
+12410000;Moscow
+11908000;Shenzhen
+11738000;Lahore
+11440000;Bangalore
+10901000;Paris
+10574000;Bogotá
+10517000;Jakarta
+10456000;Chennai
+10391000;Lima
+10156000;Bangkok
+9963000 ;Seoul
+9507000 ;Nagoya
+9482000 ;Hyderabad
+9046000 ;London
+8896000 ;Tehran
+8864000 ;Chicago
+8813000 ;Chengdu
+8245000 ;Nanjing
+8176000 ;Wuhan
+8145000 ;Ho Chi Minh City
+7774000 ;Luanda
+7681000 ;Ahmedabad
+7564000 ;Kuala Lumpur
+7444000 ;Xi'an
+7429000 ;Hong Kong
+7360000 ;Dongguan
+7236000 ;Hangzhou
+7236000 ;Foshan
+6921000 ;Shenyang
+6907000 ;Riyadh
+6812000 ;Baghdad
+6680000 ;Santiago
+6564000 ;Surat
+6497000 ;Madrid
+6339000 ;Suzhou
+6276000 ;Pune
+6115000 ;Houston
+6115000 ;Harbin
+6099000 ;Dallas
+6082000 ;Toronto
+6048000 ;Dar es Salaam
+6036000 ;Miami
+5972000 ;Belo Horizonte
+5792000 ;Singapore
+5695000 ;Philadelphia
+5572000 ;Atlanta
+5551000 ;Fukuoka
+5534000 ;Khartoum
+5494000 ;Barcelona
+5486000 ;Johannesburg
+5383000 ;Saint Petersburg
+5381000 ;Qingdao
+5300000 ;Dalian
+5207000 ;Washington, D.C.
+5157000 ;Yangon
+5086000 ;Alexandria
+5052000 ;Jinan
+5023000 ;Guadalajara
