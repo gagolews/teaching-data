@@ -1,3 +1,6 @@
+# This dataset comes from:
+# P.G. Bryant and M.A. Smith, Practical Data Analysis: Case Studies
+# in Business Statistics, Richard D. Irwin Publishing, Homewood, IL, 1995.
 # Downloaded from: https://github.com/mwaskom/seaborn-data
 "total_bill","tip","sex","smoker","day","time","size"
 16.99,1.01,"Female","No","Sun","Dinner",2
