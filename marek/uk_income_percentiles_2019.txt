@@ -1,5 +1,5 @@
 # The UK Her Majesty's Revenue and Customs
-# Total income after tax, 2018-2019, UK Taxpayers only
+# Total income after tax, 2018-2019, UK Taxpayers only, in GBP
 # Source: https://www.gov.uk/government/statistics/percentile-points-from-1-to-99-for-total-income-before-and-after-tax
 # Percentile points (from 1 to 99, in that order) estimated from the
 # Survey of Personal Incomes
