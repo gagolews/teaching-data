@@ -1,6 +1,6 @@
-# Toto-Lotek (till 1975) / Duzy-Lotek (till 2009) / Lotto Results
-# (A Polish National Lottery)
-# 6 observations are drawn without replacement from the set {1,2,...,49}
+# Polish National Lottery Results
+# Toto-Lotek (1957-1975) / Duzy-Lotek (1975-2009) / Lotto (2009-2016)
+# 6 numbered balls {1,2,...,49} are drawn without replacement from an urn
 # Source: http://www.mbnet.com.pl/wyniki.htm
 id,day,month,year,n1,n2,n3,n4,n5,n6
 1,27,01,1957,8,12,31,39,43,45
