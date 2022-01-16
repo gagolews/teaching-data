@@ -1,7 +1,7 @@
 # Polish National Lottery Results Summarised
 # Toto-Lotek (1957-1975) / Duzy-Lotek (1975-2009) / Lotto (2009-2016)
 # 6 numbered balls {1,2,...,49} are drawn without replacement from an urn
-# Below are observed counts for balls number 1, 2, ..., 49, in that order.
+# Below are the observed counts for balls 1, 2, ..., 49, in that order.
 # Based on: http://www.mbnet.com.pl/wyniki.htm
 720
 720
