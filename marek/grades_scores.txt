@@ -1,5 +1,5 @@
 # Point grades (between 0 and 100) in an imaginary university course.
-# See the grades-results dataset for the corresponding results.
+# See the grades_results dataset for the corresponding results.
 0
 0
 0

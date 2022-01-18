@@ -1,6 +1,6 @@
 # Point grades (fail, pass, credit, distinction, hight distinction)
 # in an imaginary university course.
-# See the grades-scores dataset for the corresponding numeric scores.
+# See the grades_scores dataset for the corresponding numeric scores.
 # Conversion:
 # F:  points < 50
 # P:  50 <= points < 60
