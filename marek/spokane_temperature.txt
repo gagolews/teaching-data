@@ -1,6 +1,8 @@
 # Weather for USW00024157: SPOKANE INTERNATIONAL AIRPORT, WA, US
 # Midrange daily temperatures in degrees Celsius
-# between 1889-08-01 (first observation) and 2021-12-30 (last observation).
+# between 1889-08-01 (first observation) and 2021-12-31 (last observation).
+# 11 missing values have been imputed.
+#
 # Based on data from The US National Centers for Environmental Information
 # https://www.ncdc.noaa.gov/cdo-web/
 21.1
@@ -11893,6 +11895,7 @@
 4.2
 2.2
 -1.1
+-2.6
 -4.2
 -6.9
 -9.2
@@ -20323,6 +20326,14 @@
 5
 7.2
 6.9
+7.6
+7.6
+7.6
+7.6
+7.6
+7.6
+7.6
+7.6
 8.3
 5.3
 2.8
@@ -48357,4 +48368,5 @@
 -9.4
 -12.8
 -12.2
+-11.4
 -11.4
