@@ -1,0 +1,307 @@
+# ClinCalc DrugStats Database version 2021.10
+# Source: https://clincalc.com/DrugStats/Top300Drugs.aspx
+# Based on: Medical Expenditure Panel Survey (MEPS) 2013-2019.
+# Agency for Healthcare Research and Quality (AHRQ), Rockville, MD.
+# https://meps.ahrq.gov/mepsweb/about_meps/survey_back.jsp
+# Licensed under CC BY-SA 4.0
+drug,prescriptions,patients
+Atorvastatin,112104359,24493971
+Levothyroxine,102595103,19698087
+Lisinopril,91862708,19990170
+Metformin,85739443,17430765
+Metoprolol,74578817,15177787
+Amlodipine,73542114,16419181
+Albuterol,60679987,19085418
+Omeprazole,52546641,12869290
+Losartan,51773869,11760646
+Gabapentin,47149505,9818634
+Hydrochlorothiazide,38609803,9358879
+Sertraline,37157933,7723122
+Simvastatin,36812966,8543612
+Montelukast,32154358,7429725
+Acetaminophen; Hydrocodone,30355778,10409764
+Pantoprazole,28880217,6777996
+Furosemide,28352226,6640042
+Fluticasone,27893102,9564147
+Escitalopram,27510958,6016820
+Fluoxetine,27110302,5143421
+Rosuvastatin,27041319,6129254
+Bupropion,25722873,5520278
+Amoxicillin,25702634,20368921
+Dextroamphetamine; Dextroamphetamine Saccharate; Amphetamine; Amphetamine Aspartate,24600698,3576687
+Trazodone,23934213,5066449
+Duloxetine,23821965,4296613
+Prednisone,22889929,10999246
+Tamsulosin,21934065,5309654
+Ibuprofen,21746702,10951995
+Citalopram,21546700,4050776
+Meloxicam,21459849,6484210
+Pravastatin,20683277,4875694
+Carvedilol,20602256,4553133
+Potassium,20001670,4589222
+Tramadol,19838715,5496843
+Clopidogrel,19447746,4256662
+Insulin Glargine,19211653,3708654
+Aspirin,18143138,4646616
+Atenolol,18091488,3788125
+Venlafaxine,17713653,3035802
+Alprazolam,17533262,3925013
+Ethinyl Estradiol; Norethindrone,16505642,3462531
+Allopurinol,15900788,3637367
+Hydrochlorothiazide; Lisinopril,15709833,3277894
+Cyclobenzaprine,15597385,5379870
+Clonazepam,15578495,2347398
+Zolpidem,15419648,3013103
+Azithromycin,15300433,11577286
+Oxycodone,14669103,4730687
+Warfarin,14632370,2789155
+Methylphenidate,14233405,2173470
+Apixaban,14042889,3037557
+Ranitidine,13586751,3781812
+Glipizide,13424610,2939354
+Ergocalciferol,13273652,4124239
+Quetiapine,13114560,1966742
+Budesonide; Formoterol,12473902,2754790
+Estradiol,12393425,2860475
+Acetaminophen; Oxycodone,11962650,3850554
+Ondansetron,11856066,5284836
+Naproxen,11762233,4575857
+Glimepiride,11504531,2277208
+Spironolactone,11432027,2985578
+Clonidine,11418367,2178697
+Insulin Lispro,11389229,2433328
+Loratadine,11374226,3311472
+Cetirizine,11110560,3439020
+Topiramate,10927224,2035700
+Lorazepam,10875212,2837061
+Ethinyl Estradiol; Norgestimate,10860083,2372165
+Lamotrigine,10690317,1818670
+Diltiazem,10604813,2159158
+Hydrochlorothiazide; Losartan,10268139,2318012
+Diclofenac,10115975,4025423
+Hydroxyzine,9898263,2977526
+Buspirone,9881603,2172778
+Latanoprost,9800569,2454924
+Paroxetine,9783755,2043795
+Lisdexamfetamine,9775262,1485285
+Fluticasone; Salmeterol,9762036,2315744
+Pregabalin,9625189,1731352
+Propranolol,9277061,2421089
+Cephalexin,9246463,6267878
+Cholecalciferol,9068152,2424272
+Insulin Aspart,9067406,1854475
+Finasteride,8986897,2314978
+Fenofibrate,8970219,2057889
+Sitagliptin,8866811,1649524
+Folic Acid,8860645,2096607
+Doxycycline,8809374,5335777
+Rivaroxaban,8799404,1988539
+Tizanidine,8729694,2243428
+Amoxicillin; Clavulanate,8372244,6468086
+Amitriptyline,8178156,1861683
+Lovastatin,8091735,1897500
+Alendronate,7811899,2010715
+Levetiracetam,7560850,1443028
+Sumatriptan,7050329,1839891
+Hydralazine,6655156,1694706
+Sulfamethoxazole; Trimethoprim,6630866,4339439
+Aripiprazole,6625791,1370773
+Celecoxib,6595236,1905201
+Ferrous Sulfate,6417568,2135927
+Famotidine,6355768,2287703
+Benzonatate,6354434,3974773
+Mirtazapine,6332488,1231211
+Triamcinolone,6320751,4026933
+Ezetimibe,6221674,1427468
+Fluticasone; Vilanterol,6098161,1248072
+Valacyclovir,5987835,2824569
+Methotrexate,5937198,1082328
+Oxybutynin,5901953,1476858
+Ciprofloxacin,5878441,4027141
+Valproate,5824937,910407
+Triamterene; Hydrochlorothiazide,5792730,1313745
+Thyroid,5729895,1015144
+Diazepam,5711206,1600062
+Nifedipine,5638841,1235265
+Clindamycin,5588597,3047976
+Donepezil,5538291,1432688
+Insulin Detemir,5534526,1114545
+Hydroxychloroquine,5440844,1220122
+Isosorbide,5420352,1196717
+Ethinyl Estradiol; Levonorgestrel,5372880,1462023
+Baclofen,5366102,1428051
+Testosterone,5339785,1225167
+Esomeprazole,5305918,1296630
+Desogestrel; Ethinyl Estradiol,5264389,1110114
+Oseltamivir,5214926,4417445
+Benazepril,5180063,1334128
+Dexmethylphenidate,5179401,714477
+Tiotropium,5177802,1174965
+Fluconazole,5149547,3048599
+Dulaglutide,5095034,1115444
+Chlorthalidone,4986853,1195004
+Methocarbamol,4888933,1764142
+Enalapril,4669056,958638
+Metronidazole,4664907,2898583
+Prednisolone,4638327,2547930
+Guanfacine,4608026,690784
+Verapamil,4593421,927301
+Liraglutide,4524862,973972
+Norethindrone,4514574,1096191
+Ropinirole,4487533,997625
+Acetaminophen,4483857,2536254
+Empagliflozin,4459539,914424
+Hydrocortisone,4382981,2143789
+Drospirenone; Ethinyl Estradiol,4348309,943259
+Risperidone,4285907,663688
+Meclizine,4258968,1439405
+Albuterol; Ipratropium,4231364,1046066
+Adalimumab,4208358,553816
+Nortriptyline,4190832,788683
+Valsartan,4158666,1072224
+Cyanocobalamin,4061263,1191271
+Etonogestrel; Ethinyl Estradiol,4050295,834116
+Acyclovir,3950520,1308357
+Phentermine,3842226,1017109
+Cefdinir,3839266,3008107
+Timolol,3833125,1052388
+Methylprednisolone,3812202,2834344
+Oxcarbazepine,3796002,632006
+Morphine,3756696,636123
+Olmesartan,3742011,1000776
+Dicyclomine,3730730,1156286
+Pramipexole,3685677,735018
+Azelastine,3669768,1247976
+Insulin Degludec,3632525,773441
+Memantine,3631969,831395
+Prazosin,3624710,616417
+Ketoconazole,3573982,1796305
+Rizatriptan,3514594,857676
+Acetaminophen; Codeine,3508582,1971731
+Promethazine,3392438,1547216
+Metformin; Sitagliptin,3363543,668951
+Anastrozole,3338664,811943
+Desvenlafaxine,3283561,590830
+Ramipril,3271102,853882
+Pioglitazone,3241839,858233
+Clobetasol,3226423,1688723
+Irbesartan,3220533,896653
+Levofloxacin,3202649,1995684
+Amiodarone,3185474,714249
+Nitroglycerin,3165204,1274921
+Olanzapine,3165180,528975
+Sucralfate,3161187,892843
+Docusate,3136752,1377989
+Progesterone,3070724,722137
+Mirabegron,3065676,742152
+Mupirocin,3064118,2172326
+Nebivolol,3061887,667364
+Nitrofurantoin,2957359,1608563
+Levocetirizine,2913554,805527
+Methimazole,2901300,544953
+Cyclosporine,2889776,904132
+Sildenafil,2877293,973315
+Carbamazepine,2864887,478023
+Labetalol,2825281,653627
+Calcium; Cholecalciferol,2777842,621965
+Lansoprazole,2772218,632804
+Budesonide,2749945,886015
+Colchicine,2741108,911816
+Terazosin,2736027,607817
+Umeclidinium; Vilanterol,2697882,467017
+Lithium,2643601,425396
+Digoxin,2607773,580966
+Dorzolamide; Timolol,2590909,657541
+Melatonin,2586637,694786
+Insulin Human; Insulin Isophane Human,2528165,538930
+Doxazosin,2515836,648593
+Ranolazine,2501299,405880
+Gemfibrozil,2367670,545798
+Amlodipine; Benazepril,2332425,570960
+Temazepam,2324388,628800
+Flecainide,2318516,461028
+Ticagrelor,2299436,402097
+Brimonidine,2290788,675178
+Dexlansoprazole,2290526,482099
+Lidocaine,2273902,1085302
+Lurasidone,2258860,337130
+Benztropine,2238056,352987
+Nystatin,2185148,1101946
+Eszopiclone,2166392,518564
+Sacubitril; Valsartan,2165813,435484
+Calcium Citrate,2130298,590726
+Sodium,2117733,792775
+Torsemide,2117192,476144
+Butalbital; Acetaminophen; Caffeine,2116128,694354
+Mesalamine,2109084,538910
+Liothyronine,2083234,439905
+Buprenorphine,2072033,273376
+Ofloxacin,2051823,1422882
+Erythromycin,2041420,1373882
+Doxepin,2033456,550406
+Semaglutide,2021060,610492
+Hydromorphone,2013469,541502
+Penicillin V,2005184,1455073
+Valsartan; Hydrochlorothiazide,1993866,465719
+Beclomethasone,1993298,742497
+Brimonidine; Timolol,1990438,470874
+Bumetanide,1990418,420604
+Letrozole,1981574,368191
+Linagliptin,1941245,380780
+Tretinoin,1937920,948930
+Minocycline,1925676,609265
+Ipratropium,1898297,686638
+Polyethylene Glycol 3350,1874075,799097
+Umeclidinium,1869725,317557
+Bisoprolol,1863725,307090
+Calcitriol,1847312,430582
+Varenicline,1836461,663856
+Epinephrine,1756817,1369809
+"Estrogens, Conjugated",1748939,398483
+Glyburide,1743041,460726
+Guaifenesin,1716663,1136061
+Magnesium Acetate,1712179,533710
+Ethinyl Estradiol; Norgestrel,1704321,300727
+Sotalol,1698717,353633
+Bimatoprost,1697723,410702
+Insulin Isophane,1674609,372003
+Medroxyprogesterone,1661971,644481
+Tamoxifen,1656753,405119
+Mometasone,1638401,463974
+Sulfasalazine,1632254,375613
+Dorzolamide,1615872,463403
+Ketorolac,1602923,1110598
+Indomethacin,1574456,770570
+Atomoxetine,1563862,375184
+Olopatadine,1561992,719835
+Telmisartan,1553265,383898
+Phenytoin,1536389,298537
+Buprenorphine; Naloxone,1514317,180019
+Raloxifene,1510334,340374
+Tobramycin; Dexamethasone,1486152,797964
+Naltrexone,1465584,349282
+Polymyxin B; Trimethoprim,1450395,1019455
+Terbinafine,1441827,677406
+Fentanyl,1440011,237302
+Diphenhydramine,1433911,506643
+Bisoprolol; Hydrochlorothiazide,1433172,294136
+Pancrelipase Lipase; Pancrelipase Protease; Pancrelipase Amylase,1433033,355077
+Zonisamide,1432118,222847
+Fexofenadine,1428320,468086
+Erenumab,1416499,237083
+Linaclotide,1399268,335650
+Brompheniramine; Dextromethorphan; Pseudoephedrine,1396531,845363
+Omega-3-acid Ethyl Esters,1391748,421905
+Dimethyl,1386389,227231
+Tadalafil,1379014,411977
+Canagliflozin,1373539,304908
+Emtricitabine; Tenofovir Disoproxil,1345532,189668
+Tolterodine,1340859,387878
+Etanercept,1320548,235493
+Quinapril,1318428,300038
+Senna; Docusate,1313539,610326
+Betamethasone,1311106,914208
+Solifenacin,1307159,317209
+"Insulin, Regular, Human",1298682,213288
+Chlorhexidine,1295645,793562
+Fluocinonide,1290749,595456
