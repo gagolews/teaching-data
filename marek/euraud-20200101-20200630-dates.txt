@@ -1,5 +1,6 @@
 # EUR/AUD Exchange Rates
 # Gives the dates corresponding to euraud-20200101-20200630-no-na.txt
+# and eurxxx-20200101-20200630-no-na.csv
 2020-01-02
 2020-01-03
 2020-01-06
