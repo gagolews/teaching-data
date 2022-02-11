@@ -1,0 +1,12 @@
+# A small subset of urban_forest.csv
+Common Name,Genus,Diameter Breast Height,Year Planted,Located In
+Cyprus Plane,Platanus,6.0,2006.0,Street
+London Plane,Platanus,24.0,2000.0,Street
+River red gum,Eucalyptus,41.0,1999.0,Park
+Yellow Gum,Eucalyptus,24.0,2000.0,Park
+Yellow Gum,Eucalyptus,5.0,2009.0,Street
+River red gum,Eucalyptus,15.0,2006.0,Street
+Flinders Range Wattle,Acacia,20.0,1999.0,Park
+London Plane,Platanus,46.0,1997.0,Street
+London Plane,Platanus,20.0,2006.0,Street
+London Plane,Platanus,24.0,2000.0,Street
