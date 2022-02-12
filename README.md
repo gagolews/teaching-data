@@ -29,6 +29,7 @@ Anyway, happy exercising!
 
 
 
+
 ## How To Access
 
 ### R
@@ -76,3 +77,10 @@ with gzip.open("marek/air_quality_2018.csv.gz", "rt") as f:
 ## Licensed under the Creative Commons Attribution 4.0 International License
 ## Dataset last update: 22 May 2019
 ```
+
+
+## See Also
+
+* https://github.com/gagolews/clustering_benchmarks_v1/
+
+* https://github.com/gagolews/ordinal_regression_data (DEPRECATED)
