@@ -1,9 +1,5 @@
-# Averaged air quality measurements:
-# pd.read_csv("https://raw.githubusercontent.com/gagolews/\
-# teaching_data/master/marek/air_quality.csv.gz",
-#    comment="#").groupby(["sp_name", "param_id"]).\
-# value.mean().rename("value").reset_index().\
-# to_csv("air_quality_means.csv", index=False)
+# Averaged air quality measurements for Victoria, Australia in 2018
+# See air_quality_2018.csv.gz.
 sp_name,param_id,value
 Alphington,API,0.5425839819219569
 Alphington,BPM2.5,7.848757803959358

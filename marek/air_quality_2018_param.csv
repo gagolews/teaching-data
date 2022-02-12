@@ -1,0 +1,12 @@
+# The 2018 air quality data in Victoria, Australia
+# Normalised version of air_quality_2018.csv.gz - parameters
+param_id,param_name,param_std_unit_of_measure,param_short_name
+API,Airborne particle index,none,Visibility Reduction
+BPM2.5,BAM  Particles < 2.5 micron,ug/m3,PM2.5
+CO,Carbon Monoxide,ppm,CO
+HPM10,Hivol PM10,ug/m3,
+NO2,Nitrogen Dioxide,ppb,NO2
+O3,Ozone,ppb,O3
+PM10,TEOM Particles <10micron,ug/m3,PM10
+PPM2.5,Partisol PM2.5,ug/m3,
+SO2,Sulfur Dioxide,ppb,SO2
