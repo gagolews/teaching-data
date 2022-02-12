@@ -3,7 +3,7 @@
 > *See comment lines within the files themselves for a detailed description
 of each dataset.*
 
-"Good" datasets are actually hard to find!
+*Good* datasets are actually hard to find!
 
 Many textbooks consider datasets that are "too easy";
 they give their readers the false impression that anything can be modelled
@@ -34,16 +34,15 @@ Anyway, happy exercising!
 ### R
 
 ```r
-airlines <- read.csv("nycflights13_airlines.csv.gz", comment.char="#")
-head(airlines)
-
-##   carrier                     name
-## 1      9E        Endeavor Air Inc.
-## 2      AA   American Airlines Inc.
-## 3      AS     Alaska Airlines Inc.
-## 4      B6          JetBlue Airways
-## 5      DL     Delta Air Lines Inc.
-## 6      EV ExpressJet Airlines Inc.
+airparam <- read.csv("marek/air_quality_2018_param.csv", comment.char="#")
+head(airparam)
+##   param_id                  param_name param_std_unit_of_measure     param_short_name
+## 1      API     Airborne particle index                      none Visibility Reduction
+## 2   BPM2.5 BAM  Particles < 2.5 micron                     ug/m3                PM2.5
+## 3       CO             Carbon Monoxide                       ppm                   CO
+## 4    HPM10                  Hivol PM10                     ug/m3
+## 5      NO2            Nitrogen Dioxide                       ppb                  NO2
+## 6       O3                       Ozone                       ppb                   O3
 ```
 
 
@@ -51,18 +50,29 @@ head(airlines)
 
 ```python
 import pandas as pd
-airlines = pd.read_csv("nycflights13_airlines.csv.gz",
-    comment="#", compression="gzip")
-airlines.head()
+airparam = pd.read_csv("marek/air_quality_2018_param.csv",
+    comment="#")
+airparam.head()
+##   param_id                   param_name param_std_unit_of_measure      param_short_name
+## 0      API      Airborne particle index                      none  Visibility Reduction
+## 1   BPM2.5  BAM  Particles < 2.5 micron                     ug/m3                 PM2.5
+## 2       CO              Carbon Monoxide                       ppm                    CO
+## 3    HPM10                   Hivol PM10                     ug/m3                   NaN
+## 4      NO2             Nitrogen Dioxide                       ppb                   NO2
 ```
 
 To print comment lines, call, e.g.:
 
 ```python
 import gzip
-with gzip.open("nycflights13_airlines.csv.gz", "rt") as f:
+with gzip.open("marek/air_quality_2018.csv.gz", "rt") as f:
     while True:
         x = f.readline().strip()
         if not x.startswith("#"): break
         print(x)
+## The 2018 air quality data in Victoria, Australia
+## Sources: https://discover.data.vic.gov.au/dataset/epa-air-watch-all-sites-air-quality-hourly-averages-yearly
+## Provided by the Environment Protection Authority Victoria
+## Licensed under the Creative Commons Attribution 4.0 International License
+## Dataset last update: 22 May 2019
 ```
