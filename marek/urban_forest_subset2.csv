@@ -1,0 +1,102 @@
+# A small subset of urban_forest.csv
+CoM ID,Common Name,Diameter Breast Height,Year Planted,Age Description,Useful Life Expectancy,Located In,Latitude,Longitude
+1359615,"London Plane",16,2009,"Juvenile","1-5 years (<50% canopy)","Street",-37.8125456009236,144.943748874128
+1287101,"Japanese Zelkova",12,2008,"Semi-Mature","21-30 years","Street",-37.7780036853867,144.939683263202
+1440349,"Lemon Scented Gum",8,2009,"Juvenile","61+ years","Street",-37.7914011108446,144.927761499333
+1290005,"Japanese Zelkova",20,2008,"Semi-Mature","21-30 years","Street",-37.7944468206476,144.939461934588
+1067834,"Japanese Zelkova",18,2006,"Semi-Mature","31-60 years","Street",-37.7933076384757,144.919323385293
+1358604,"London Plane",27,2009,"Semi-Mature","21-30 years","Street",-37.8186448073915,144.948324628236
+1287108,"Lemon Scented Gum",12,2008,"Juvenile","31-60 years","Street",-37.7780791475727,144.939036153758
+1066890,"Japanese Zelkova",17,2006,"Semi-Mature","21-30 years","Street",-37.7954242507918,144.923843965271
+1287093,"Japanese Zelkova",12,2008,"Semi-Mature","21-30 years","Street",-37.7777426731796,144.939202409153
+1358352,"London Plane",10,2009,"Juvenile","11-20 years","Street",-37.818647800701,144.94748809968
+1289639,"Peppercorn Tree",51,2008,"Mature","31-60 years","Street",-37.7895741339873,144.927391249713
+1456656,"London Plane",2,2010,"New","31-60 years","Street",-37.808000024488,144.965895929417
+1359154,"Peppercorn Tree",21,2009,"Semi-Mature","31-60 years","Park",-37.8188679254085,144.943623072498
+1070046,"Peppercorn Tree",23,2006,"Semi-Mature","31-60 years","Park",-37.7950753874878,144.917045196974
+1289984,"Japanese Zelkova",12,2008,"Semi-Mature","6-10 years (<50% canopy)","Street",-37.7954230232919,144.940124151805
+1067787,"London Plane",11,2006,"Juvenile","31-60 years","Street",-37.7929552433627,144.917873214866
+1067797,"London Plane",29,2006,"Semi-Mature","21-30 years","Street",-37.7925106117074,144.918765792411
+1067747,"London Plane",20,2006,"Semi-Mature","21-30 years","Street",-37.7940730734906,144.917038372575
+1358764,"London Plane",14,2009,"Semi-Mature","1-5 years (<50% canopy)","Street",-37.8201714074731,144.949934377959
+1069583,"Japanese Zelkova",7,2006,"Juvenile","31-60 years","Street",-37.8483277968421,144.984112605263
+1287033,"Lemon Scented Gum",5,2008,"Juvenile","61+ years","Park",-37.7790457866777,144.962137736354
+1456322,"Japanese Zelkova",2,2010,"New","31-60 years","Street",-37.8120454346005,144.98646163603
+1440247,"Lemon Scented Gum",2,2009,"New","61+ years","Park",-37.7962222690472,144.94548898713
+1289920,"Peppercorn Tree",14,2008,"Juvenile","61+ years","Park",-37.7897558958185,144.924525341884
+1359251,"Peppercorn Tree",32,2009,"Semi-Mature","31-60 years","Park",-37.8185410757533,144.944696925691
+1069557,"Japanese Zelkova",4,2006,"Juvenile","1-5 years (<50% canopy)","Street",-37.8478017342339,144.980970739568
+1288212,"Lemon Scented Gum",8,2008,"Juvenile","61+ years","Park",-37.8171249988777,144.989788401575
+1069943,"London Plane",20,2006,"Semi-Mature","21-30 years","Street",-37.7951792120521,144.918712476158
+1069962,"Japanese Zelkova",17,2006,"Semi-Mature","6-10 years (<50% canopy)","Street",-37.7952566599326,144.920005054852
+1064980,"Lemon Scented Gum",22,2006,"Semi-Mature","61+ years","Park",-37.8295903980191,144.9647961596
+1070822,"Lemon Scented Gum",6,2006,"Juvenile","61+ years","Street",-37.7972439786247,144.940909770753
+1358742,"London Plane",14,2009,"Semi-Mature","1-5 years (<50% canopy)","Street",-37.820023215187,144.951231625498
+1358432,"Lemon Scented Gum",13,2009,"Semi-Mature","61+ years","Park",-37.8203314449717,144.947559492742
+1455399,"Lemon Scented Gum",3,2010,"New","61+ years","Park",-37.8278716157702,144.973480569432
+1289980,"Japanese Zelkova",14,2008,"Semi-Mature","6-10 years (<50% canopy)","Street",-37.7950692951092,144.940179857638
+1287357,"Lemon Scented Gum",12,2008,"Juvenile","61+ years","Street",-37.8094387284096,144.947101605904
+1359143,"Peppercorn Tree",17,2009,"Semi-Mature","21-30 years","Park",-37.8188071846244,144.943984193041
+1440370,"Lemon Scented Gum",7,2009,"Juvenile","31-60 years","Street",-37.7922418749138,144.927744366984
+1359202,"London Plane",12,2009,"Juvenile","31-60 years","Street",-37.8196066601691,144.944224202856
+1288727,"Japanese Zelkova",8,2008,"Juvenile","11-20 years","Street",-37.8457616682892,144.984794802772
+1455397,"Lemon Scented Gum",3,2010,"New","61+ years","Park",-37.828026841639,144.973634930541
+1070330,"London Plane",23,2006,"Semi-Mature","31-60 years","Street",-37.8246529539631,144.921920417147
+1068574,"Japanese Zelkova",21,2006,"Semi-Mature","21-30 years","Street",-37.7960589525511,144.920963307434
+1357384,"London Plane",13,2008,"Juvenile","31-60 years","Street",-37.7974684378503,144.931333915187
+1067923,"Lemon Scented Gum",7,2006,"Juvenile","61+ years","Street",-37.7925803413309,144.958896312103
+1068742,"London Plane",19,2006,"Semi-Mature","31-60 years","Park",-37.7946168553017,144.919108811566
+1069893,"London Plane",23,2006,"Semi-Mature","21-30 years","Street",-37.7969435115118,144.919573539973
+1439824,"Japanese Zelkova",4,2009,"New","61+ years","Street",-37.7943485658213,144.955920417881
+1456159,"Japanese Zelkova",3,2010,"New","31-60 years","Street",-37.8122093421412,144.989936620445
+1287161,"Japanese Zelkova",15,2008,"Semi-Mature","11-20 years","Street",-37.7772503246936,144.938556656437
+1455368,"Lemon Scented Gum",4,2010,"New","61+ years","Park",-37.8283962854485,144.973726964738
+1069535,"London Plane",31,2006,"Semi-Mature","31-60 years","Street",-37.8079762691661,144.944351559648
+1456157,"Japanese Zelkova",2,2010,"New","31-60 years","Street",-37.8121845032504,144.989732714884
+1068545,"London Plane",12,2007,"Semi-Mature","31-60 years","Street",-37.7975507817707,144.939186363812
+1064028,"London Plane",9,2005,"Juvenile","11-20 years","Street",-37.8229268538325,144.966210063387
+1068722,"London Plane",22,2006,"Semi-Mature","6-10 years (>50% canopy)","Park",-37.7947454724568,144.919762851779
+1440698,"Lemon Scented Gum",6,2009,"New","61+ years","Street",-37.8011436609347,144.957070430873
+1286076,"Peppercorn Tree",114,2008,"Mature","31-60 years","Park",-37.7899291324058,144.924496420269
+1455400,"Lemon Scented Gum",4,2010,"New","61+ years","Park",-37.8278033525966,144.973415176568
+1359960,"London Plane",12,2009,"Juvenile","11-20 years","Street",-37.8147998784982,144.945359127383
+1359985,"Lemon Scented Gum",6,2009,"New","61+ years","Street",-37.7934930584913,144.97361802162
+1357954,"London Plane",11,2008,"Juvenile","21-30 years","Street",-37.8237931670828,144.967995851395
+1456316,"Japanese Zelkova",1,2010,"New","31-60 years","Street",-37.812101112375,144.986966742957
+1358766,"London Plane",15,2009,"Semi-Mature","6-10 years (<50% canopy)","Street",-37.8202370791441,144.949710465637
+1288568,"Japanese Zelkova",6,2008,"Juvenile","31-60 years","Street",-37.813297198549,144.989764895764
+1069325,"Japanese Zelkova",11,2006,"Semi-Mature","61+ years","Street",-37.7969120643526,144.921467136008
+1067838,"Japanese Zelkova",19,2006,"Semi-Mature","21-30 years","Street",-37.7934100949652,144.919440318637
+1068562,"London Plane",91,2006,"Mature","6-10 years (>50% canopy)","Park",-37.8221214887632,144.971748583167
+1439376,"Japanese Zelkova",4,2009,"New","61+ years","Park",-37.8069820376445,144.951862795395
+1288559,"Japanese Zelkova",6,2008,"New","31-60 years","Street",-37.8131997042325,144.989781512311
+1068091,"Lemon Scented Gum",14,2006,"Semi-Mature","31-60 years","Street",-37.8170756900226,144.969206332473
+1070068,"Peppercorn Tree",24,2006,"Semi-Mature","61+ years","Park",-37.7951413778378,144.917143393793
+1289764,"Peppercorn Tree",32,2008,"Semi-Mature","31-60 years","Street",-37.7910690454334,144.925039581441
+1064976,"London Plane",9,2006,"Juvenile","21-30 years","Street",-37.8220309663655,144.965040082848
+1069945,"London Plane",23,2006,"Semi-Mature","21-30 years","Street",-37.7950062467655,144.918873935959
+1069354,"Japanese Zelkova",14,2006,"Semi-Mature","11-20 years","Street",-37.7957317629817,144.920449284172
+1455349,"Lemon Scented Gum",4,2010,"New","61+ years","Park",-37.8274125486229,144.972909488294
+1456605,"Peppercorn Tree",2,2010,"New","61+ years","Park",-37.7979028803554,144.941330305166
+1359796,"Japanese Zelkova",35,2009,"Semi-Mature","31-60 years","Park",-37.8143234102489,144.942839407773
+1358504,"Lemon Scented Gum",21,2009,"Semi-Mature","31-60 years","Street",-37.8200736207843,144.94831448612
+1288236,"Lemon Scented Gum",29,2008,"Semi-Mature","61+ years","Park",-37.8272761777026,144.985314297767
+1069940,"London Plane",20,2006,"Semi-Mature","21-30 years","Street",-37.7954012936977,144.918194292036
+1068797,"Lemon Scented Gum",11,2006,"Juvenile","61+ years","Street",-37.7991801125014,144.972716215177
+1287329,"Lemon Scented Gum",12,2008,"Juvenile","61+ years","Street",-37.8095384772083,144.946930393283
+1067755,"London Plane",21,2006,"Semi-Mature","21-30 years","Street",-37.7935717198315,144.917199630896
+1285829,"Lemon Scented Gum",14,2007,"Juvenile","61+ years","Street",-37.7937657264717,144.965008483422
+1288269,"London Plane",19,2008,"Semi-Mature","21-30 years","Street",-37.8033730165038,144.951490135887
+1070066,"Peppercorn Tree",18,2006,"Semi-Mature","31-60 years","Park",-37.7951301288998,144.917032189336
+1286097,"Peppercorn Tree",52,2008,"Mature","21-30 years","Street",-37.7902397300737,144.924080171963
+1358755,"London Plane",16,2009,"Semi-Mature","6-10 years (<50% canopy)","Street",-37.8195023818658,144.95306321457
+1068154,"Lemon Scented Gum",9,2006,"Juvenile","61+ years","Street",-37.7787456704037,144.94325404143
+1358607,"London Plane",21,2009,"Semi-Mature","11-20 years","Street",-37.8187509470254,144.947951235152
+1289893,"Peppercorn Tree",38,2008,"Semi-Mature","31-60 years","Park",-37.7883378284109,144.926537119098
+1069899,"London Plane",29,2006,"Semi-Mature","21-30 years","Street",-37.7965631643627,144.920090946218
+1358348,"London Plane",22,2009,"Semi-Mature","21-30 years","Street",-37.818808656676,144.946924497441
+1069608,"Japanese Zelkova",8,2006,"Juvenile","31-60 years","Street",-37.847940427312,144.98091308773
+1286589,"London Plane",70,2008,"Mature","11-20 years","Street",-37.794410241723,144.930489140183
+1440164,"Japanese Zelkova",3,2009,"Juvenile","61+ years","Street",-37.8234366631954,144.959528479424
+1289924,"Japanese Zelkova",19,2008,"Semi-Mature","11-20 years","Street",-37.7940051892896,144.940556122586
+1289892,"Peppercorn Tree",40,2008,"Semi-Mature","31-60 years","Park",-37.7883749381992,144.926479758763
