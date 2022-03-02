@@ -9,10 +9,6 @@
 #      is the diameter of the tree (in inches) measured at 4 ft 6 in
 #      above the ground.
 #
-# Usage:
-#
-#      trees
-#
 # Format:
 #
 #      A data frame with 31 observations on 3 variables.
