@@ -8,7 +8,7 @@
 # http://www.ssfindex.com/ssi/calculation-methodology/
 #
 # This CSV file lists the 3 SSI dimensions, being the geometric means
-# of the underlying 3+2+3 categories.
+# of the underlying 3+2+2 categories.
 "Country","HumanWellbeing","EnvironmentalWellbeing","EconomicWellbeing"
 "Albania",8.11624603259374,5.3961277764524,2.63167374344563
 "Algeria",6.52832464136332,3.56976352278489,4.66224540586005
