@@ -1,3 +1,5 @@
+# A random sample of wine_quality_all with color="white" and residual.sugar>2.5,
+# where bad = (response<=5).
 alcohol,sugar,bad
 10.7,10.3,0
 9.1,18.5,1
