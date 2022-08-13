@@ -10,7 +10,7 @@ they give their readers the false impression that anything can be modelled
 well with statistics and machine learning algorithms.
 
 In practice, you will frequently be dealing with datasets that do not
-tell any interesting story. Fear not, this is not personal,
+tell any interesting story. Fear not, this is nothing personal,
 you are not stupid or something — it might be not your fault
 if you cannot find any useful patterns in your data!
 
@@ -81,6 +81,8 @@ with gzip.open("marek/air_quality_2018.csv.gz", "rt") as f:
 
 ## See Also
 
-* https://github.com/gagolews/clustering_benchmarks_v1/
+* [Minimalist Data Wrangling with Python](https://datawranglingpy.gagolewski.com)
 
-* https://github.com/gagolews/ordinal_regression_data (DEPRECATED)
+* [Clustering Benchmarks v1](https://github.com/gagolews/clustering_benchmarks_v1/)
+
+* [Ordinal Regression Benchmarks](https://github.com/gagolews/ordinal_regression_data) (DEPRECATED)
