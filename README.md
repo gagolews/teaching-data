@@ -1,7 +1,7 @@
 # [Marek](https://www.gagolewski.com)'s Teaching and Training Data
 
-> *See comment lines within the files themselves for a detailed description
-of each dataset.*
+> *See the comment lines within the files themselves for
+> a detailed description of each dataset.*
 
 *Good* datasets are actually hard to find!
 
@@ -77,6 +77,11 @@ with gzip.open("marek/air_quality_2018.csv.gz", "rt") as f:
 ## Licensed under the Creative Commons Attribution 4.0 International License
 ## Dataset last update: 22 May 2019
 ```
+
+
+### Other (Julia, GNU Octave, ...)
+
+🚧 TO DO 🚧
 
 
 ## See Also
