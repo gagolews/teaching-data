@@ -90,6 +90,4 @@ with gzip.open("marek/air_quality_2018.csv.gz", "rt") as f:
 
 * [Deep R Programming](https://deepr.gagolewski.com)
 
-* [Clustering Benchmarks v1](https://github.com/gagolews/clustering_benchmarks_v1/)
-
-* [Ordinal Regression Benchmarks](https://github.com/gagolews/ordinal_regression_data) (DEPRECATED)
+* [A Framework for Benchmarking Clustering Algorithms](https://clustering-benchmarks.gagolewski.com/)
