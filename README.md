@@ -1,4 +1,4 @@
-# [Marek](https://www.gagolewski.com)'s Teaching and Training Data
+# Dr [Marek](https://www.gagolewski.com)'s Teaching and Training Data
 
 > *See the comment lines within the files themselves for
 > a detailed description of each dataset.*
@@ -87,6 +87,8 @@ with gzip.open("marek/air_quality_2018.csv.gz", "rt") as f:
 ## See Also
 
 * [Minimalist Data Wrangling with Python](https://datawranglingpy.gagolewski.com)
+
+* [Deep R Programming](https://deepr.gagolewski.com)
 
 * [Clustering Benchmarks v1](https://github.com/gagolews/clustering_benchmarks_v1/)
 
