@@ -29,6 +29,15 @@ Anyway, happy exercising!
 
 
 
+## See Also
+
+* [Minimalist Data Wrangling with Python](https://datawranglingpy.gagolewski.com) – my open-access text book
+
+* [Deep R Programming](https://deepr.gagolewski.com) – another open-access text book of mine
+
+* [A Framework for Benchmarking Clustering Algorithms](https://clustering-benchmarks.gagolewski.com/)
+
+
 
 ## How To Access
 
@@ -82,12 +91,3 @@ with gzip.open("marek/air_quality_2018.csv.gz", "rt") as f:
 ### Other (Julia, GNU Octave, ...)
 
 🚧 TO DO 🚧
-
-
-## See Also
-
-* [Minimalist Data Wrangling with Python](https://datawranglingpy.gagolewski.com)
-
-* [Deep R Programming](https://deepr.gagolewski.com)
-
-* [A Framework for Benchmarking Clustering Algorithms](https://clustering-benchmarks.gagolewski.com/)
