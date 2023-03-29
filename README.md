@@ -1,4 +1,4 @@
-# Dr [Marek](https://www.gagolewski.com)'s Teaching and Training Data
+# Dr [Marek](https://www.gagolewski.com)'s Data for Teaching 
 
 > *See the comment lines within the files themselves for
 > a detailed description of each dataset.*
