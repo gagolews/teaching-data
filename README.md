@@ -1,4 +1,4 @@
-# Dr [Marek](https://www.gagolewski.com)'s Data for Teaching 
+# Dr [Marek](https://www.gagolewski.com)'s Data for Teaching
 
 > *See the comment lines within the files themselves for
 > a detailed description of each dataset.*
@@ -27,8 +27,6 @@ What goes around, comes around.
 Anyway, happy exercising!
 
 
-
-
 ## See Also
 
 * [Minimalist Data Wrangling with Python](https://datawranglingpy.gagolewski.com) – my open-access text book
@@ -36,7 +34,6 @@ Anyway, happy exercising!
 * [Deep R Programming](https://deepr.gagolewski.com) – another open-access text book of mine
 
 * [A Framework for Benchmarking Clustering Algorithms](https://clustering-benchmarks.gagolewski.com/)
-
 
 
 ## How To Access
