@@ -3,7 +3,6 @@
 # for hours 0-23, in that order.
 # Based on data downloaded from http://www.pedestrian.melbourne.vic.gov.au/
 # Licensed under CC-BY 4.0, see also
-# https://data.melbourne.vic.gov.au/Transport/Pedestrian-Counting-System-Monthly-counts-per-hour
 31.2258064516129
 18.3870967741935
 11.7741935483871
